@@ -5,6 +5,6 @@ Rendu Projet Final Cours Electronique
 Viviana MONTIEL
 Fabiana MONTIEL
 
-![alt-text](IMG_5034.png)
+![click to see circuit image](IMG_5034.png)
 
-![LEDs video](eyeSeeYou.mov)
+![click to see LEDs video](eyeSeeYou.mov)
